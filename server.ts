@@ -43,7 +43,6 @@
 
 
 import express from 'express';
-import { Request, Response } from 'express';
 import cors from "cors";
 
 const multer  = require('multer')
